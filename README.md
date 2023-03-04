@@ -1,1 +1,1 @@
-# My first Power BI project
+# My first Power BI dashboard
